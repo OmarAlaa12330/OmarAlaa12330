@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Omar, Student at Uxbridge College, doing T-levels.
+- 👋 Hi, I’m Omar, Student at Royal Holloway, studying BSc in Computer Science (Software Development).
 - 👀 I’m interested in playing games and watching Youtube. A simple life.
 - 🌱 I’m currently learning ReactJs, MongoDB with FastAPI.
 
